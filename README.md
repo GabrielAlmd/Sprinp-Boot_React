@@ -43,3 +43,7 @@ Was created a simple react applying and use Bootstrap for css elments.
 - VS Code
 - IntelliJ
 - Postman
+
+## To run
+
+This project is build with a backend of Spring Boot Java we can start by running this part of the project in IntelliJ. Then we can go for our frontend that we can start from the terminal with command "npm start" inside our frontend directory.

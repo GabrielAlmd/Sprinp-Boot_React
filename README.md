@@ -15,7 +15,7 @@ The chanlange consisted in creating a given database table with a prices (pvp)
 
 ### Backend
 
-Fro building the backend I user [SprintBoot](https://start.spring.io) with the following configurations:
+For building the backend I user [SprintBoot](https://start.spring.io) with the following configurations:
 
 - Project: Maven
 - Language: Java

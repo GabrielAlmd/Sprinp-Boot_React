@@ -1,8 +1,8 @@
 # SringBoot Ecommerce Challenge
 
-This project was created as a request for a challenge in the process of applying to a company, this being [The loop Co.](https://www.theloop.pt/)
+This project was created as on demand, being this a challenge for the application process to a company, being this one [The loop Co.](https://www.theloop.pt/)
 
-The chanlange consisted in creating a given database table with a prices (pvp)
+The challenge was to create a database table with prices (PVP)
 
 ## Stack
 
@@ -15,7 +15,7 @@ The chanlange consisted in creating a given database table with a prices (pvp)
 
 ### Backend
 
-For building the backend I user [SprintBoot](https://start.spring.io) with the following configurations:
+For building the backend was used [SprintBoot](https://start.spring.io) with the following configurations:
 
 - Project: Maven
 - Language: Java
@@ -36,7 +36,7 @@ For building the backend I user [SprintBoot](https://start.spring.io) with the f
 
 ### Frontend
 
-Was created a simple react applying and use Bootstrap for css elments.
+Was created a simple react application and used Bootstrap for CSS elements.
 
 ## Tecnologies used
 
@@ -46,4 +46,4 @@ Was created a simple react applying and use Bootstrap for css elments.
 
 ## To run
 
-This project is build with a backend of Spring Boot Java we can start by running this part of the project in IntelliJ. Then we can go for our frontend that we can start from the terminal with command "npm start" inside our frontend directory.
+This project is built with a backend of Spring Boot Java we can start by running this part of the project in IntelliJ. Then we can go for our frontend where we can start from the terminal with the command "npm start" inside our frontend directory.
